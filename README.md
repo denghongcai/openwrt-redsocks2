@@ -54,6 +54,10 @@ RedSocks2 for OpenWrt
    make package/redsocks2/compile V=s
    ```
 
+配置
+---
+路径 `/etc/config/redsocks2`
+
 编译错误解决方案
 ---
 
